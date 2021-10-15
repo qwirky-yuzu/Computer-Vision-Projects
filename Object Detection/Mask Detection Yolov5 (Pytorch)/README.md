@@ -22,16 +22,16 @@ As I did not have enough images (labeling was too tedious), I applied a few data
 3. Rotation
 
 #### Original Image
-![Figure 1](Output Images/1.png)
+![Figure 1](./Output Images/1.png)
 
 #### Shearing
-![Figure 1](Output Images/2.png)
+![Figure 1](./Output Images/2.png)
 
 #### Rotation
-![Figure 1](Output Images/3.png)
+![Figure 1](./Output Images/3.png)
 
 #### Noising
-![Figure 1](Output Images/4.png)
+![Figure 1](./Output Images/4.png)
 
 ## 2. Model
 
