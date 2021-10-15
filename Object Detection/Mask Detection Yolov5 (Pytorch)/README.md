@@ -8,7 +8,7 @@ With COVID-19 spreading rapidly, thousands of people are dying each day as there
 
 ## 1. Dataset
 
-Data collection is the biggest challenge of this project - it is not difficult to find sufficient images given the help of readily available webscrapping tools but labelling the data is the most tedious part. Fortunately, we do not need to build the labeling tool from scratch! There are several tools out there but the one I used for this project was labelImg which provides a really simple user interface for labeling. You can find a copy of it here: https://github.com/tzutalin/labelImg
+Data collection is the biggest challenge of this project - it is not difficult to find sufficient images given the help of readily available webscrapping tools but labeling the data is the most tedious part. Fortunately, we do not need to build the labeling tool from scratch! There are several tools out there but the one I used for this project was labelImg which provides a really simple user interface for labeling. You can find a copy of it here: https://github.com/tzutalin/labelImg
 
 Installation steps are provided in within labelImg's GitHub repository. I was using a Windows machine with Anaconda installed thus, the option I chose was "Windows + Anaconda" which I felt was the easiest and most stable way to launch the application. As we are dealing with the YOLO architecture, do remember to save your labels as the YOLO format.
 
