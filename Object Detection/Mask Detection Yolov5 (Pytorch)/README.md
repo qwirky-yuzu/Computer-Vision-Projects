@@ -21,6 +21,18 @@ As I did not have enough images (labeling was too tedious), I applied a few data
 2. Noise addition
 3. Rotation
 
+#### Original Image
+![Figure 1](Output Images/1.png)
+
+#### Shearing
+![Figure 1](Output Images/2.png)
+
+#### Rotation
+![Figure 1](Output Images/3.png)
+
+#### Noising
+![Figure 1](Output Images/4.png)
+
 ## 2. Model
 
 With more updates on the new YOLO based models, training these models are relatively easy as most of the models' architectures being pre-built and requires only a few tweaks for us to trained a custom model.
